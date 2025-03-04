@@ -8,7 +8,6 @@ cd sybase-postgres-proxy
 
 ```
 cp .env.example .env
-mkdir -p config/ssl
 ```
 
 # Build & Start
